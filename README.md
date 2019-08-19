@@ -1,12 +1,12 @@
 # dapp-sla
-##Summary
+## Summary
  The goal to create a simple dapp and interact it with a simple web application made with html and javascript.
-##Requirements
+## Requirements
  First of all you need to install :
  - **Truffle** : an ethereum framework.
  - **Ganache** : a local Blockchain network. 
  - **Metamask** :  a chrome extension to connect you ethereum account and see transactions.
-#Demo
+# Demo
  
 ## 1- Clone the project
 Run :
